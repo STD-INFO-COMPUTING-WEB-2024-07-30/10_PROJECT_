@@ -1,5 +1,7 @@
 # 09_PROJECT_
 
+프로젝트 경로입니다 : https://github.com/qowngus221/Project.git
+
 > FN
 ```
 스타일가이드(FIGMA)
