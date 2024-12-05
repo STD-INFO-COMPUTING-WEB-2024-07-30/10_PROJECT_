@@ -20,5 +20,5 @@ ERD
 |REAEMD 꾸미기|[예시](./BN/README)|
 |-|-|
 |-|-|
-
+|참고PJ 자료|[예시](./BN/REF_PROJECTS)|
 
