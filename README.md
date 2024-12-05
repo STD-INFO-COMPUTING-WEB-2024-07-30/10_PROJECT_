@@ -8,7 +8,7 @@
 
 > BN
 ```
-
+SLACK + GITHUB + NOTION
 README
 ERD
 
