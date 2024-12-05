@@ -2,7 +2,13 @@
 
 > FN
 ```
+스타일가이드(FIGMA)
+스토리보드(FIGMA)
+프로토타입(FIGMA)
+와이어프레임(FIGMA)
 
+REACT인경우
+REAEME 에 BN와 상동
 ```
 
 
