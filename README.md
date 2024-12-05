@@ -1,19 +1,18 @@
 # 09_PROJECT_
 
 ### 프로젝트 링크
-https://github.com/SeoKai/GoatRepo.git
+##### GITHUB
+**https://github.com/SeoKai/GoatRepo.git**
+##### NOTION
+**https://seong-kai.notion.site/PROJECT-14dfcab0377c80ae8e20e6d8f35d869c?pvs=4**
 
 > FN
 ```
 
 ```
 
-
 > BN
 ```
-SLACK + GITHUB + NOTION
-README
-ERD
 
 ```
 |-|-|
