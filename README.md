@@ -1,12 +1,10 @@
 # 09_PROJECT_
 
 ### 프로젝트 링크
-##### GITHUB
-[**GITHUB**](https://github.com/SeoKai/Team_TripSupporter)
-##### NOTION
+[**GITHUB**](https://github.com/SeoKai/Team_TripSupporter)<br>
 [**NOTION**](https://seong-kai.notion.site/PROJECT-14dfcab0377c80ae8e20e6d8f35d869c?pvs=4)
 
-# 프로젝트 이름 (고졸트리오)
+# 프로젝트 이름 (미정)
 
 #### **사용자가 자유롭게 일본 여행지 정보를 리뷰하고, 이를 기반으로 최적화된 여행 플래너를 작성할 수 있는 플랫폼**
 ---
