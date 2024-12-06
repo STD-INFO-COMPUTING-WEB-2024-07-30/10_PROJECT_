@@ -2,9 +2,9 @@
 
 ### 프로젝트 링크
 ##### GITHUB
-**https://github.com/SeoKai/GoatRepo.git**
+[**GITHUB**](https://github.com/SeoKai/Team_TripSupporter)
 ##### NOTION
-**https://seong-kai.notion.site/PROJECT-14dfcab0377c80ae8e20e6d8f35d869c?pvs=4**
+[**NOTION**](https://seong-kai.notion.site/PROJECT-14dfcab0377c80ae8e20e6d8f35d869c?pvs=4)
 
 # 프로젝트 이름 (고졸트리오)
 
