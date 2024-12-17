@@ -42,8 +42,12 @@
 ### Plan
 |작업 파트|작업 기간|작업 설명|사용 기술|
 |-|-|-|-|
-|FN|12/06~12/12|메인, 로그인, 검색|React <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">|
-|BN|12/12~12/14|로그인, 회원가입 구현|OAuth2, JWT|
+|FN|12/06~12/8|프론트엔드|React <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">|
+|BN|12/9~12/10|상품 주문|OAuth2, JWT|
+|BN|12/9~12/13|상품 CRUD|OAuth2, JWT|
+|BN|12/9~12/13|장바구니 CRUD|OAuth2, JWT|
+
+
 |BN|12/14~12/16|판매자 - 가게 생성, 품목 작성 구현||
 |BN|12/16~12/18|구매자 - 내정보, 구매, 후기 구현||
 |BN|12/18~1219|관리자, 지도 구현||
